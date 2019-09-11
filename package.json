@@ -1,13 +1,13 @@
 {
-  "name": "cron-builder",
+  "name": "dx-cron-builder",
   "description": "simple API for building cron expressions",
   "author": "Tyler Waneka <twwaneka@gmail.com> (http://tylerwaneka.com)",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "main": "cron-builder.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/srcclr/cron-builder.git"
+    "url": "https://github.com/dexterns88/cron-builder.git"
   },
   "devDependencies": {
     "chai": "^3.4.1",
